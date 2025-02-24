@@ -1,9 +1,0 @@
-flask
-flask-cors  # If needed for frontend communication
-opencv-python-headless  # Use this instead of opencv-python if deploying on a server
-numpy
-mediapipe
-keras
-tensorflow
-gdown
-gunicorn
