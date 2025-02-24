@@ -1,1 +1,1 @@
-web: gunicorn video_service:app
+web: gunicorn vid_analysis:app
